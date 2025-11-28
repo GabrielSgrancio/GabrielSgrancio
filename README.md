@@ -2,7 +2,7 @@
   <h1>Gabriel Sgrâncio</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Apaixonado+por+Computa%C3%A7%C3%A3o+e+Matem%C3%A1tica;Sistemas+de+Computa%C3%A7%C3%A3o+-+UFF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Apaixonado+por+Computa%C3%A7%C3%A3o+e+Matem%C3%A1tica;Sistemas+de+Computa%C3%A7%C3%A3o+-+UFF" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSgrancio&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSgrancio&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSgrancio&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=ruby,html,css" />
 </p>
 
@@ -50,7 +50,6 @@
 <h3 align="center">📫 Contate-me</h3>
 
 <div align="center">
-  <hr width="50%" />
   <br/>
   <a href="mailto:gabrielsgrancio@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
@@ -58,4 +57,4 @@
   <a href="https://www.linkedin.com/in/gabrielsgrancio/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</div>****
