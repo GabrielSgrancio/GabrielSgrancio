@@ -11,7 +11,7 @@
 ---
 
 ### Sobre mim
-Sou apaixonado conhecimento e resolução de problemas, tenho interesse em **arquitetura de software** e **matemática**..
+Sou apaixonado por conhecimento e resolução de problemas, com interesse em arquitetura de software e matemática.
 
 ---
 
