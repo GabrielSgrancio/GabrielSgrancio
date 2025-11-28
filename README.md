@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center"> Olá! Eu sou o Gabriel Sgrâncio</h1>
 
-<!--
-**GabrielSgrancio/GabrielSgrancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineer</b>
+  <br/>
+  Focado em criar soluções escaláveis com <b>Node.js</b>, <b>TypeScript</b> e <b>React</b>.
+  <br/>
+  <i> Back-end developer - Parcelex · Graduando em Sistemas de Computação na UFF</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+Sou apaixonado conhecimento e resolução de problemas, tenho interesse em **arquitetura de software** e **matemática**..
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+ ## Where to find me:
+
+
+- **Email:** gabrielsgrancio@outlook.com 
+
+- **LinkedIn:** https://www.linkedin.com/in/gabrielsgrancio/ 
+
+- **GitHub:** https://github.com/GabrielSgrancio
+
+
+--- 
