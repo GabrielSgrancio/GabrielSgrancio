@@ -1,54 +1,55 @@
 <div align="center">
   <h1>Gabriel Sgrâncio</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Apaixonado+por+Computa%C3%A7%C3%A3o+e+Matem%C3%A1tica;Sistemas+de+Computa%C3%A7%C3%A3o+-+UFF" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <p>
-    Sou um engenheiro de software focado na construção de <b>sistemas escaláveis</b> e soluções de alta performance.  
+    <b>Software Engineer @ Globo · UNIVESP · UFF · CEFET-RJ</b>
+  </p>
+  <p>
+    Building distributed systems at the scale of one of Latin America's
+    largest media companies. Interested in distributed systems, cloud,
+    and the mathematics behind AI.
   </p>
 </div>
 
 <br/>
 
+## About Me
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
+I'm a Software Engineer at **Globo**, one of the largest media companies in Latin America, where I build backend platforms and distributed systems that serve content to a massive audience. My work spans high-throughput asynchronous pipelines, cloud infrastructure, and the observability needed to keep large-scale systems reliable — including the media processing platform behind Globo's streaming.
+
+My academic path runs through Brazil's federal institutions — **CEFET-RJ** and **UFF**, and I'm currently pursuing a **B.Sc. in Artificial Intelligence at UNIVESP**.
+
+Beyond engineering, I'm drawn to the theoretical side of computing: the mathematics behind machine learning and LLMs, distributed systems theory, and software architecture. I'm working toward research and graduate study in AI.
+
+## Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <br/>
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0C2C?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <br/>
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-<br/>
-
-<h3 align="center">📫 Contate-me</h3>
+## Contact
 
 <div align="center">
-  <br/>
   <a href="mailto:gabrielsgrancio@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielsgrancio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-</div>****
+</div>
