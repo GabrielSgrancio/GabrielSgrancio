@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Gabriel Sgrâncio</h1>
   <p>
-    <b>Software Engineer @ Globo · Artificial Intelligence @ UNIVESP · Computer Systems @ UFF</b>
+    <b>Software Engineer @ Globo · Artificial Intelligence @ UNIVESP · UFF · CEFET-RJ</b>
   </p>
   <p>
     Software engineer working on distributed systems, media infrastructure, and cloud platforms.<br/>
@@ -15,13 +15,13 @@
 
 I'm a Software Engineer at **Globo**, where I work on backend and platform infrastructure for large-scale media processing and streaming systems.
 
-My work involves distributed and asynchronous systems, cloud infrastructure, observability, workflow orchestration, and video processing. I currently work primarily with **Go, Python, Google Cloud, Kubernetes, Temporal, and Terraform**.
+My work involves distributed and asynchronous systems, cloud infrastructure, observability, workflow orchestration, and video processing. I currently work primarily with **Go, Python, Google Cloud, Kubernetes, Temporal, and Terraform**, building systems that operate at large scale and directly support Globo's media processing infrastructure.
 
-I'm also pursuing a **B.Sc. in Artificial Intelligence at UNIVESP** and a degree in **Computer Systems at UFF**. Before that, I studied **Computer Systems at UFF** and Engineering at **CEFET-RJ**.
+Alongside engineering, I'm pursuing a **B.Sc. in Artificial Intelligence at UNIVESP**. Before that, I studied **Computer Systems at UFF** and **Engineering at CEFET-RJ**.
 
-My interests go beyond software engineering. I'm particularly interested in the mathematical foundations of machine learning, information theory, distributed systems, algorithms, and the broader theoretical foundations of computer science.
+I'm particularly interested in problems at the intersection of **software engineering, mathematics, and artificial intelligence**. This includes the mathematical foundations of machine learning, information theory, distributed systems, algorithms, and the theoretical foundations of computer science.
 
-Long term, I want to work closer to research and pursue graduate studies in artificial intelligence and computer science.
+I enjoy understanding systems from first principles, going beyond abstractions to understand how things work underneath. I'm constantly studying, experimenting, and looking for harder problems that push me to learn faster and deepen both my theoretical and engineering foundations.
 
 ## Technologies
 
